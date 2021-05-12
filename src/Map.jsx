@@ -3,7 +3,10 @@ import * as d3 from 'd3'
 
 export const Map = (props) => {
 
-  const { geoJson } = props
+  const { geoJson, allegationsPerPrecinct } = props
+  
+  const maxAllegations = Math.max(...allegationsPerPrecinct.map(obj => obj.allegations))
+  const scale = d3.scaleSequential([0, maxAllegations], d3.interpolateBlues)
 
   const svgRef = useRef()
 
@@ -17,7 +20,10 @@ export const Map = (props) => {
       .attr('d', path)
       .attr('stroke', '#000000')
       .attr('stroke-width', '.2')
-      .attr('fill', 'transparent')
+      .attr('fill', function(d) {
+        const precinct = allegationsPerPrecinct.filter(item => item.precinct === d.properties['Precinct'])[0]
+        return scale(precinct.allegations)
+      }) 
   }
   
   useEffect(() => {
