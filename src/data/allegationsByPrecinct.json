@@ -1,0 +1,322 @@
+[
+  {
+    "precinct": 75,
+    "allegations": 2172
+  },
+  {
+    "precinct": 73,
+    "allegations": 1163
+  },
+  {
+    "precinct": 44,
+    "allegations": 1139
+  },
+  {
+    "precinct": 46,
+    "allegations": 1120
+  },
+  {
+    "precinct": 67,
+    "allegations": 1119
+  },
+  {
+    "precinct": 79,
+    "allegations": 1062
+  },
+  {
+    "precinct": 40,
+    "allegations": 1009
+  },
+  {
+    "precinct": 77,
+    "allegations": 950
+  },
+  {
+    "precinct": 47,
+    "allegations": 944
+  },
+  {
+    "precinct": 120,
+    "allegations": 844
+  },
+  {
+    "precinct": 81,
+    "allegations": 806
+  },
+  {
+    "precinct": 43,
+    "allegations": 772
+  },
+  {
+    "precinct": 52,
+    "allegations": 759
+  },
+  {
+    "precinct": 70,
+    "allegations": 713
+  },
+  {
+    "precinct": 113,
+    "allegations": 704
+  },
+  {
+    "precinct": 32,
+    "allegations": 684
+  },
+  {
+    "precinct": 48,
+    "allegations": 662
+  },
+  {
+    "precinct": 42,
+    "allegations": 653
+  },
+  {
+    "precinct": 83,
+    "allegations": 648
+  },
+  {
+    "precinct": 71,
+    "allegations": 648
+  },
+  {
+    "precinct": 25,
+    "allegations": 614
+  },
+  {
+    "precinct": 23,
+    "allegations": 610
+  },
+  {
+    "precinct": 101,
+    "allegations": 595
+  },
+  {
+    "precinct": 103,
+    "allegations": 572
+  },
+  {
+    "precinct": 41,
+    "allegations": 512
+  },
+  {
+    "precinct": 69,
+    "allegations": 488
+  },
+  {
+    "precinct": 60,
+    "allegations": 485
+  },
+  {
+    "precinct": 105,
+    "allegations": 470
+  },
+  {
+    "precinct": 90,
+    "allegations": 420
+  },
+  {
+    "precinct": 34,
+    "allegations": 400
+  },
+  {
+    "precinct": 114,
+    "allegations": 380
+  },
+  {
+    "precinct": 121,
+    "allegations": 366
+  },
+  {
+    "precinct": 14,
+    "allegations": 351
+  },
+  {
+    "precinct": 28,
+    "allegations": 344
+  },
+  {
+    "precinct": 30,
+    "allegations": 328
+  },
+  {
+    "precinct": 49,
+    "allegations": 321
+  },
+  {
+    "precinct": 63,
+    "allegations": 274
+  },
+  {
+    "precinct": 33,
+    "allegations": 272
+  },
+  {
+    "precinct": 18,
+    "allegations": 268
+  },
+  {
+    "precinct": 110,
+    "allegations": 267
+  },
+  {
+    "precinct": 9,
+    "allegations": 266
+  },
+  {
+    "precinct": 72,
+    "allegations": 251
+  },
+  {
+    "precinct": 115,
+    "allegations": 245
+  },
+  {
+    "precinct": 10,
+    "allegations": 241
+  },
+  {
+    "precinct": 102,
+    "allegations": 239
+  },
+  {
+    "precinct": 122,
+    "allegations": 238
+  },
+  {
+    "precinct": 84,
+    "allegations": 232
+  },
+  {
+    "precinct": 88,
+    "allegations": 229
+  },
+  {
+    "precinct": 68,
+    "allegations": 227
+  },
+  {
+    "precinct": 45,
+    "allegations": 223
+  },
+  {
+    "precinct": 7,
+    "allegations": 221
+  },
+  {
+    "precinct": 104,
+    "allegations": 220
+  },
+  {
+    "precinct": 50,
+    "allegations": 215
+  },
+  {
+    "precinct": 61,
+    "allegations": 214
+  },
+  {
+    "precinct": 109,
+    "allegations": 205
+  },
+  {
+    "precinct": 106,
+    "allegations": 205
+  },
+  {
+    "precinct": 24,
+    "allegations": 205
+  },
+  {
+    "precinct": 62,
+    "allegations": 176
+  },
+  {
+    "precinct": 6,
+    "allegations": 175
+  },
+  {
+    "precinct": 1,
+    "allegations": 174
+  },
+  {
+    "precinct": 107,
+    "allegations": 168
+  },
+  {
+    "precinct": 19,
+    "allegations": 167
+  },
+  {
+    "precinct": 5,
+    "allegations": 160
+  },
+  {
+    "precinct": 76,
+    "allegations": 158
+  },
+  {
+    "precinct": 26,
+    "allegations": 158
+  },
+  {
+    "precinct": 13,
+    "allegations": 152
+  },
+  {
+    "precinct": 108,
+    "allegations": 131
+  },
+  {
+    "precinct": 112,
+    "allegations": 119
+  },
+  {
+    "precinct": 100,
+    "allegations": 119
+  },
+  {
+    "precinct": 78,
+    "allegations": 118
+  },
+  {
+    "precinct": 94,
+    "allegations": 113
+  },
+  {
+    "precinct": 123,
+    "allegations": 112
+  },
+  {
+    "precinct": 20,
+    "allegations": 112
+  },
+  {
+    "precinct": 66,
+    "allegations": 89
+  },
+  {
+    "precinct": 17,
+    "allegations": 76
+  },
+  {
+    "precinct": 111,
+    "allegations": 37
+  },
+  {
+    "precinct": "",
+    "allegations": 24
+  },
+  {
+    "precinct": 0,
+    "allegations": 21
+  },
+  {
+    "precinct": 22,
+    "allegations": 12
+  },
+  {
+    "precinct": 1000,
+    "allegations": 3
+  }
+]
